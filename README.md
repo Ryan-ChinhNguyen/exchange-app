@@ -42,6 +42,3 @@ docker-compose up -d
 # Run app
 mvn spring-boot:run
 ```
-
-### Configuration
-Edit `src/main/resources/db.migration/application.yml` and set your OpenExchangeRates App ID.
